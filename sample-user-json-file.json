@@ -1,0 +1,10 @@
+[
+    {
+        "user": "user1",
+        "amount": 10
+    },
+    {
+        "user": "user2",
+        "amount": 20
+    }
+]

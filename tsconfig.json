@@ -1,0 +1,16 @@
+{
+    "version": "2.0.2",
+    "compilerOptions": {
+      "outDir": "./dist",
+      "lib": ["es5", "es6", "es2020", "dom"],
+      "target": "es6",
+      "module": "commonjs",
+      "moduleResolution": "node",
+      "emitDecoratorMetadata": true,
+      "experimentalDecorators": true,
+      "resolveJsonModule": true,
+      "esModuleInterop": true,
+      "allowSyntheticDefaultImports": true,
+    },
+    "include": ["./src/**/*"]
+  }
